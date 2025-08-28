@@ -1,24 +1,24 @@
-- name: Min Max Tree
+- name: Sheets
   number: 1
   links:
-    - https://www.acmicpc.net/problem/16011
-- name: Elections
+    - https://www.acmicpc.net/problem/14871
+- name: Strings
   number: 2
   links: 
-    - https://www.acmicpc.net/problem/16012
-- name: Home Coming
+    - https://www.acmicpc.net/problem/14872
+- name: Tale
   number: 3
   links: 
-    - https://www.acmicpc.net/problem/16013
-- name: Parentrises
+    - https://www.acmicpc.net/problem/14873
+- name: Cats
   number: 4
   links: 
-    - https://www.acmicpc.net/problem/16014
-  - name: POPA
+    - https://www.acmicpc.net/problem/14874
+  - name: City Attractions
   number: 5
   links: 
-    - https://www.acmicpc.net/problem/16015
-  - name: Zalmoxis
+    - https://www.acmicpc.net/problem/14875
+  - name: Monsters
   number: 6
   links: 
-    - https://www.acmicpc.net/problem/16016
+    - https://www.acmicpc.net/problem/14876
