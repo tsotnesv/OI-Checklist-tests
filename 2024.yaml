@@ -1,0 +1,16 @@
+- name: Make All Equal 
+  number: 1
+  links:
+    - https://codeforces.com/gym/105259/problem/A
+- name: Mazes
+  number: 2
+  links: 
+    - https://codeforces.com/gym/105259/problem/B
+- name: Parcel Post 
+  number: 3
+  links: 
+    - https://codeforces.com/gym/105259/problem/C
+- name: Double Agents 
+  number: 4
+  links: 
+    - https://codeforces.com/gym/105259/problem/D
